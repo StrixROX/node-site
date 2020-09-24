@@ -1,4 +1,4 @@
-## node-site (Prototype) - <a href="https://trusting-lumiere-5a9291.netlify.app/">Visit Site</a>
+## Node Site (Prototype) - <a href="https://trusting-lumiere-5a9291.netlify.app/" target="_blank">Visit Site</a>
 
 ## Build Setup
 
